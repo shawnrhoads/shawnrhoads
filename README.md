@@ -1,7 +1,7 @@
 ## Hi there, I'm [Shawn](https://shawnrhoads.github.io/) 👋
 
 [![Website](https://img.shields.io/website?label=🧠%20shawnrhoads.github.io&logo=&style=flat-square&url=https://shawnrhoads.github.io/)](https://shawnrhoads.github.io/)
-[![Twitter](https://img.shields.io/twitter/follow/ShawnRhoads56?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ShawnRhoads56)
+[![Twitter](https://img.shields.io/twitter/follow/ShawnRhoads56?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=ShawnRhoads56)
 [![Scholar](https://img.shields.io/badge/🎓%20Google%20Scholar-15-red?style=flat-square)](https://scholar.google.com/citations?user=__YmDVEAAAAJ&hl=en)
 
 ### I'm a Scientist, PhD Candidate, & Brainhacker!
