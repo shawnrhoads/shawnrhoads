@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm [Shawn](https://shawnrhoads.github.io/) 👋
 
-<!--
-**shawnrhoads/shawnrhoads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=🧠%20shawnrhoads.github.io&logo=&style=flat-square&url=https://shawnrhoads.github.io/)](https://shawnrhoads.github.io/)
+[![Twitter](https://img.shields.io/twitter/follow/ShawnRhoads56?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ShawnRhoads56)
+[![Scholar](https://img.shields.io/badge/🎓%20Google%20Scholar-15-red?style=flat-square)](https://scholar.google.com/citations?user=__YmDVEAAAAJ&hl=en)
 
-Here are some ideas to get you started:
+### I'm a Scientist, PhD Candidate, & Brainhacker!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently researching how we learn in social contexts
+- 📄 I’m currently writing about interpersonal perception and prosocial decision-making
+- 🔭 I just finished my first course: [Computational Models of Human Social Behavior & Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/index.html)!
+- 👯 Always looking to collaborate with other neuroscience researchers!
+- 📫 How to reach me: [Brainhack Mattermost](https://mattermost.brainhack.org/brainhack/messages/@shawnrhoads)
+- ♂️ Pronouns: he/him
+- 🎶 Fun fact: I love electronic music
