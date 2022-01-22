@@ -19,4 +19,4 @@
 
 ##
 
-[<img href="" align="center" src="https://github-readme-stats.vercel.app/api?username=shawnrhoads&theme=github_dark&hide_border=True" />](https://github.com/shawnrhoads/)
+[<img href="" align="center" src="https://github-readme-stats.vercel.app/api?username=shawnrhoads&theme=github_dark&hide_border=True&hide_title=True&show_icons=True&count_private=True" />](https://github.com/shawnrhoads/)
