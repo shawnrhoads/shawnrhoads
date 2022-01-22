@@ -1,4 +1,4 @@
-## Hi there, I'm [Shawn](https://shawnrhoads.github.io/) 👋
+## [![readme-typing-svg.herokuapp.com/demo/](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans&color=%23008BDF&size=24&duration=6000&vCenter=true&lines=Hello!+I'm+Shawn+%F0%9F%91%8B)](https://shawnrhoads.github.io/)
 
 [![Website](https://img.shields.io/website?label=🧠%20shawnrhoads.github.io&logo=&style=square&color=00bef6&url=https://shawnrhoads.github.io/)](https://shawnrhoads.github.io/)
 [![Twitter](https://img.shields.io/twitter/follow/shawnrhoads56?color=1DA1F2&logo=twitter&style=square)](https://twitter.com/intent/follow?screen_name=ShawnRhoads56)
