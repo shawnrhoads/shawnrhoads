@@ -7,7 +7,7 @@
 [![Scholar](https://img.shields.io/badge/🎓%20google%20scholar-17-0080ce?style=square)](https://scholar.google.com/citations?user=__YmDVEAAAAJ&hl=en)
 [![Course](https://img.shields.io/github/workflow/status/shawnrhoads/gu-psyc-347/deploy-book?color=0061ab&label=%F0%9F%93%95%20psyc%20347-01&style=square)](https://shawnrhoads.github.io/gu-psyc-347/index.html)
 [![PayPal](https://img.shields.io/static/v1?message=donate&label=%20&style=square&logo=Paypal&labelColor=5c5c5c&color=004389)](https://paypal.me/ShawnRhoads)
-[![BuyMeACoffee](https://img.shields.io/static/v1?message=caffeinate%20me&label=%20&style=square&logo=Buy%20Me%20A%20Coffee&labelColor=5c5c5c&color=002868)](https://www.buymeacoffee.com/shawnrhoads)
+[![BuyMeACoffee](https://img.shields.io/static/v1?message=buy%20me%20a%20coffee&label=%20&style=square&logo=Buy%20Me%20A%20Coffee&labelColor=5c5c5c&color=002868)](https://www.buymeacoffee.com/shawnrhoads)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently researching how we learn in social contexts
 - 📄 I’m currently writing about interpersonal perception and prosocial decision-making
-- 🔭 I just finished my first course: [Computational Models of Human Social Behavior & Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/index.html)!
+- 🔭 I just finished designing/teaching my first course! It's called [Computational Models of Human Social Behavior & Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/index.html)! Read about it [here](https://jose.theoj.org/papers/62fca31989cb19be1eb93970ac7554be)!
 - 👯 Always looking to collaborate with other neuroscience researchers!
 - 📫 How to reach me: [Brainhack Mattermost](https://mattermost.brainhack.org/brainhack/messages/@shawnrhoads)
 - ♂️ Pronouns: he/him
