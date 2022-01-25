@@ -2,7 +2,7 @@
   
 ## [![readme-typing-svg.herokuapp.com/demo/](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans&color=%23008BDF&size=24&duration=6000&vCenter=true&center=true&lines=Hello!+I'm+Shawn+%F0%9F%91%8B)](https://shawnrhoads.github.io/)
 
-[![Website](https://img.shields.io/website?label=🧠%20shawnrhoads.github.io&logo=&style=square&color=00bef6&url=https://shawnrhoads.github.io/)](https://shawnrhoads.github.io/)
+[![Website](https://img.shields.io/website?label=🧠%20personal%20website&logo=&style=square&color=00bef6&url=https://shawnrhoads.github.io/)](https://shawnrhoads.github.io/)
 [![Twitter](https://img.shields.io/twitter/follow/shawnrhoads56?color=1DA1F2&logo=twitter&style=square)](https://twitter.com/intent/follow?screen_name=ShawnRhoads56)
 [![Scholar](https://img.shields.io/badge/🎓%20google%20scholar-17-0080ce?style=square)](https://scholar.google.com/citations?user=__YmDVEAAAAJ&hl=en)
 [![Course](https://img.shields.io/github/workflow/status/shawnrhoads/gu-psyc-347/deploy-book?color=0061ab&label=%F0%9F%93%95%20psyc%20347&style=square)](https://shawnrhoads.github.io/gu-psyc-347/index.html)
