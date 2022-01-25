@@ -7,7 +7,7 @@
 [![Scholar](https://img.shields.io/badge/🎓%20google%20scholar-17-0080ce?style=square)](https://scholar.google.com/citations?user=__YmDVEAAAAJ&hl=en)
 [![Course](https://img.shields.io/github/workflow/status/shawnrhoads/gu-psyc-347/deploy-book?color=0061ab&label=%F0%9F%93%95%20psyc%20347&style=square)](https://shawnrhoads.github.io/gu-psyc-347/index.html)
 [![PayPal](https://img.shields.io/static/v1?message=donate&label=%20&style=square&logo=Paypal&labelColor=5c5c5c&color=004389)](https://paypal.me/ShawnRhoads)
-[![BuyMeACoffee](https://img.shields.io/static/v1?message=send%20me%20caffeine&label=%20&style=square&logo=Buy%20Me%20A%20Coffee&labelColor=5c5c5c&color=002868)](https://www.buymeacoffee.com/shawnrhoads)
+[![BuyMeACoffee](https://img.shields.io/static/v1?message=contribute%20caffeine&label=%20&style=square&logo=Buy%20Me%20A%20Coffee&labelColor=5c5c5c&color=002868)](https://www.buymeacoffee.com/shawnrhoads)
 
 </div>
 
