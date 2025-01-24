@@ -3,7 +3,7 @@
 ## [![readme-typing-svg.herokuapp.com/demo/](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans&color=%23008BDF&size=24&duration=6000&vCenter=true&center=true&lines=Hello!+I'm+Shawn+%F0%9F%91%8B)](https://shawnrhoads.github.io/)
 
 [![Website](https://img.shields.io/website?label=🧠%20personal%20website&logo=&style=square&color=00bef6&url=https://shawnrhoads.github.io/)](https://shawnrhoads.github.io/)
-[![Bluesky](https://img.shields.io/badge/bluesky-1k-1DA1F2?style=square)](https://bsky.app/profile/shawnrhoadsphd.bsky.social)
+[![Bluesky](https://img.shields.io/badge/bluesky-1k-1DA1F2?style=square&logo=Bluesky)](https://bsky.app/profile/shawnrhoadsphd.bsky.social)
 [![Twitter](https://img.shields.io/twitter/follow/shawnrhoadsphd?color=1DA1F2&logo=X&label=@shawnrhoadsphd&style=square)](https://x.com/intent/user?user_id=380634496) 
 [![Mastodon](https://img.shields.io/mastodon/follow/109503723583216024?color=0080ce&domain=https%3A%2F%2Fneuromatch.social%2F&label=mastodon&logo=mastodon&logoColor=white&style=square)](https://neuromatch.social/@shawnrhoadsphd) 
 [![Scholar](https://img.shields.io/badge/🎓%20google%20scholar-31-0080ce?style=square)](https://scholar.google.com/citations?user=__YmDVEAAAAJ&hl=en)
